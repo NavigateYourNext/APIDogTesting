@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: Scenario: Validate all request and responses of open source API
+-------------------------------------------------------------------------------
+Tests run: 4, Failures: 0, Errors: 0, Skipped: 3, Time elapsed: 0.167 s - in Scenario: Validate all request and responses of open source API
